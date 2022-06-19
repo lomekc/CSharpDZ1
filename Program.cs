@@ -1,4 +1,4 @@
-﻿/*
+﻿
 // задача 2
 int a,b; 
 
@@ -11,12 +11,16 @@ b = Convert.ToInt32(Console.ReadLine());
 if ( a > b)
 {
     Console.WriteLine("max number" + " " + a);
+
+    Console.WriteLine("min number" + " " + b);
 }
 else
 {
     Console.WriteLine("max number" + " " + b);
+
+    Console.WriteLine("min number" + " " + a);
 }
-*/
+
 
 /*
 // задача 4
